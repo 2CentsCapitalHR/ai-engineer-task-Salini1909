@@ -6,7 +6,7 @@
 1. Open Google Colab
 2. Upload this notebook
 3. Run all cells
-4. Upload `legal_references.pdf` and one or more `.docx` files when prompted
+4. Upload `Data_Source.pdf` and one or more `.docx` files when prompted
 
 ## Output
 - JSON structured output
